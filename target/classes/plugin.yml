@@ -1,0 +1,11 @@
+name: AntiUpperLava
+version: '1.0'
+main: timeplay.antiupperlava.Main
+authors: [ TimePlay ]
+description: Anti upper lava and water
+prefix: antiupperlava
+commands:
+  antiupperlava:
+    usage: /antiupperlava
+    description: Reload AntiUpperLava
+    permission: antiupperlava.reload
